@@ -98,6 +98,7 @@ drag it onto the taskbar to keep it visible).
 - **Firewall layer (Windows)** — when run as administrator, protected programs are also blocked in Windows Firewall
   for the duration of a failure.
 - **Language** — English or Russian, follows the system by default.
+- **Theme (macOS)** — system default, light or dark, in Settings → General.
 
 ## FAQ
 

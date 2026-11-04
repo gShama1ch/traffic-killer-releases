@@ -15,11 +15,25 @@ choose and keeps them from starting until the VPN is back — before they get a 
 
 ## Download
 
-| Platform | File | Requirements |
-|---|---|---|
-| macOS | [**TrafficKiller-macOS.dmg**](../../releases/latest/download/TrafficKiller-macOS.dmg) | macOS 14 Sonoma or newer, Apple Silicon or Intel |
-| Windows (most PCs) | [**TrafficKiller-Windows-x64.exe**](../../releases/latest/download/TrafficKiller-Windows-x64.exe) | Windows 10 / 11, 64-bit Intel or AMD |
-| Windows on ARM | [**TrafficKiller-Windows-arm64.exe**](../../releases/latest/download/TrafficKiller-Windows-arm64.exe) | Windows 11 on Snapdragon and other ARM laptops |
+**Current version: 1.2.1** (4 Nov 2026) · [what's new](../../releases/latest). The links below always lead to the newest version.
+
+| Platform | File | Version | Requirements |
+|---|---|---|---|
+| macOS | [**TrafficKiller-macOS.dmg**](../../releases/latest/download/TrafficKiller-macOS.dmg) | 1.2.1 | macOS 14 Sonoma or newer, Apple Silicon or Intel |
+| Windows (most PCs) | [**TrafficKiller-Windows-x64.exe**](../../releases/latest/download/TrafficKiller-Windows-x64.exe) | 1.2.1 | Windows 10 / 11, 64-bit Intel or AMD |
+| Windows on ARM | [**TrafficKiller-Windows-arm64.exe**](../../releases/latest/download/TrafficKiller-Windows-arm64.exe) | 1.2.1 | Windows 11 on Snapdragon and other ARM laptops |
+
+<details>
+<summary><b>Archived versions</b></summary>
+
+Older builds stay available if you need to go back. Use the current version unless you have a reason not to.
+
+| Version | Date | Changes | Downloads |
+|---|---|---|---|
+| 1.2 | 4 Nov 2026 | Theme choice on macOS | [macOS](../../releases/download/v1.2/TrafficKiller-macOS.dmg) · [Windows x64](../../releases/download/v1.2/TrafficKiller-Windows-x64.exe) · [Windows ARM](../../releases/download/v1.2/TrafficKiller-Windows-arm64.exe) · [notes](../../releases/tag/v1.2) |
+| 1.1 | 4 Nov 2026 | VPN location and flag on the icon; first public release | [macOS](../../releases/download/v1.1/TrafficKiller-macOS.dmg) · [Windows x64](../../releases/download/v1.1/TrafficKiller-Windows-x64.exe) · [Windows ARM](../../releases/download/v1.1/TrafficKiller-Windows-arm64.exe) · [notes](../../releases/tag/v1.1) |
+
+</details>
 
 All versions and release notes: [Releases](../../releases). Each release lists SHA-256 checksums in
 `SHA256SUMS.txt`; to verify a download:

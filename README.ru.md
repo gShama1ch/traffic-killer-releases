@@ -13,11 +13,25 @@
 
 ## Скачать
 
-| Платформа | Файл | Требования |
-|---|---|---|
-| macOS | [**TrafficKiller-macOS.dmg**](../../releases/latest/download/TrafficKiller-macOS.dmg) | macOS 14 Sonoma и новее, Apple Silicon или Intel |
-| Windows (большинство ПК) | [**TrafficKiller-Windows-x64.exe**](../../releases/latest/download/TrafficKiller-Windows-x64.exe) | Windows 10 / 11, 64-бит Intel или AMD |
-| Windows на ARM | [**TrafficKiller-Windows-arm64.exe**](../../releases/latest/download/TrafficKiller-Windows-arm64.exe) | Windows 11 на Snapdragon и других ARM-ноутбуках |
+**Текущая версия: 1.2.1** (4 ноября 2026) · [что нового](../../releases/latest). Ссылки ниже всегда ведут на самую новую версию.
+
+| Платформа | Файл | Версия | Требования |
+|---|---|---|---|
+| macOS | [**TrafficKiller-macOS.dmg**](../../releases/latest/download/TrafficKiller-macOS.dmg) | 1.2.1 | macOS 14 Sonoma и новее, Apple Silicon или Intel |
+| Windows (большинство ПК) | [**TrafficKiller-Windows-x64.exe**](../../releases/latest/download/TrafficKiller-Windows-x64.exe) | 1.2.1 | Windows 10 / 11, 64-бит Intel или AMD |
+| Windows на ARM | [**TrafficKiller-Windows-arm64.exe**](../../releases/latest/download/TrafficKiller-Windows-arm64.exe) | 1.2.1 | Windows 11 на Snapdragon и других ARM-ноутбуках |
+
+<details>
+<summary><b>Архивные версии</b></summary>
+
+Старые сборки остаются доступны, если понадобится откатиться. Если нет особой причины, используйте текущую версию.
+
+| Версия | Дата | Изменения | Скачать |
+|---|---|---|---|
+| 1.2 | 4 ноя 2026 | Выбор темы на macOS | [macOS](../../releases/download/v1.2/TrafficKiller-macOS.dmg) · [Windows x64](../../releases/download/v1.2/TrafficKiller-Windows-x64.exe) · [Windows ARM](../../releases/download/v1.2/TrafficKiller-Windows-arm64.exe) · [описание](../../releases/tag/v1.2) |
+| 1.1 | 4 ноя 2026 | Локация VPN и флаг на значке; первый публичный релиз | [macOS](../../releases/download/v1.1/TrafficKiller-macOS.dmg) · [Windows x64](../../releases/download/v1.1/TrafficKiller-Windows-x64.exe) · [Windows ARM](../../releases/download/v1.1/TrafficKiller-Windows-arm64.exe) · [описание](../../releases/tag/v1.1) |
+
+</details>
 
 Все версии и список изменений — в разделе [Releases](../../releases). К каждому релизу приложен
 `SHA256SUMS.txt` с контрольными суммами. Проверить скачанный файл:

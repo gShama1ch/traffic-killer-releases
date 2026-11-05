@@ -15,13 +15,13 @@ choose and keeps them from starting until the VPN is back — before they get a 
 
 ## Download
 
-**Current version: 1.2.1** (4 Nov 2026) · [what's new](../../releases/latest). The links below always lead to the newest version.
+**Current version: 1.3** (5 Nov 2026) · [what's new](../../releases/latest). The links below always lead to the newest version.
 
 | Platform | File | Version | Requirements |
 |---|---|---|---|
-| macOS | [**TrafficKiller-macOS.dmg**](../../releases/latest/download/TrafficKiller-macOS.dmg) | 1.2.1 | macOS 14 Sonoma or newer, Apple Silicon or Intel |
-| Windows (most PCs) | [**TrafficKiller-Windows-x64.exe**](../../releases/latest/download/TrafficKiller-Windows-x64.exe) | 1.2.1 | Windows 10 / 11, 64-bit Intel or AMD |
-| Windows on ARM | [**TrafficKiller-Windows-arm64.exe**](../../releases/latest/download/TrafficKiller-Windows-arm64.exe) | 1.2.1 | Windows 11 on Snapdragon and other ARM laptops |
+| macOS | [**TrafficKiller-macOS.dmg**](../../releases/latest/download/TrafficKiller-macOS.dmg) | 1.3 | macOS 14 Sonoma or newer, Apple Silicon or Intel |
+| Windows (most PCs) | [**TrafficKiller-Windows-x64.exe**](../../releases/latest/download/TrafficKiller-Windows-x64.exe) | 1.3 | Windows 10 / 11, 64-bit Intel or AMD |
+| Windows on ARM | [**TrafficKiller-Windows-arm64.exe**](../../releases/latest/download/TrafficKiller-Windows-arm64.exe) | 1.3 | Windows 11 on Snapdragon and other ARM laptops |
 
 <details>
 <summary><b>Archived versions</b></summary>
@@ -30,6 +30,7 @@ Older builds stay available if you need to go back. Use the current version unle
 
 | Version | Date | Changes | Downloads |
 |---|---|---|---|
+| 1.2.1 | 4 Nov 2026 | The macOS menu bar window follows the chosen theme | [macOS](../../releases/download/v1.2.1/TrafficKiller-macOS.dmg) · [Windows x64](../../releases/download/v1.2.1/TrafficKiller-Windows-x64.exe) · [Windows ARM](../../releases/download/v1.2.1/TrafficKiller-Windows-arm64.exe) · [notes](../../releases/tag/v1.2.1) |
 | 1.2 | 4 Nov 2026 | Theme choice on macOS | [macOS](../../releases/download/v1.2/TrafficKiller-macOS.dmg) · [Windows x64](../../releases/download/v1.2/TrafficKiller-Windows-x64.exe) · [Windows ARM](../../releases/download/v1.2/TrafficKiller-Windows-arm64.exe) · [notes](../../releases/tag/v1.2) |
 | 1.1 | 4 Nov 2026 | VPN location and flag on the icon; first public release | [macOS](../../releases/download/v1.1/TrafficKiller-macOS.dmg) · [Windows x64](../../releases/download/v1.1/TrafficKiller-Windows-x64.exe) · [Windows ARM](../../releases/download/v1.1/TrafficKiller-Windows-arm64.exe) · [notes](../../releases/tag/v1.1) |
 
@@ -44,6 +45,8 @@ shasum -a 256 TrafficKiller-macOS.dmg                          # macOS
 ```powershell
 Get-FileHash .\TrafficKiller-Windows-x64.exe -Algorithm SHA256  # Windows PowerShell
 ```
+
+**Before you trust it:** [what the app protects against, and what it does not](SECURITY.md) · [every network connection it makes](PRIVACY.md)
 
 ## Install
 
